@@ -149,3 +149,8 @@ body {
         transform: scaleX(.85);
     }
 }
+
+/* New class for opening the card on click */
+.card.open {
+    transform: translateY(-100px);
+}
