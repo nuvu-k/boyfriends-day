@@ -1,0 +1,5 @@
+
+document.querySelector('.valentines').addEventListener('click', function() {
+
+    document.querySelector('.card').classList.toggle('open');
+});
